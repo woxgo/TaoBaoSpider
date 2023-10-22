@@ -1,0 +1,5 @@
+scrapy
+selenium==3.141.0
+urllib3==1.26.2
+openpyxl
+pymysql
